@@ -51,7 +51,7 @@ The main and largest wallpaper collection. A diverse assortment of general-purpo
 ### 🤠 west
 > **11 wallpapers**
 
-A collection of western-themed wallpapers. Features landscapes, scenery, and visuals inspired by western aesthetics — great for fans of wide open spaces and classic western vibes.
+A collection of western-themed wallpapers. 
 
 ---
 
