@@ -6,13 +6,16 @@ A curated collection of desktop wallpapers organized by theme.
 
 | Folder | Theme | Count |
 |---|---|---:|
-| `RG_Special` | Personal favorites | 12 |
+| `RG_Special` | Personal favorites | 15 |
 | `MEME` | Meme & fun wallpapers | 13 |
 | `game_wall` | Gaming wallpapers | 12 |
 | `hind` | Indian/Hindi aesthetic wallpapers | 4 |
-| `neo_wall` | Modern / neo / abstract styles | 35 |
+| `neo_wall` | Modern / neo / abstract styles | 50 |
 | `wall` | General mixed wallpapers | 52 |
 | `west` | Western-themed wallpapers | 11 |
+| `College_Photo` | College memories and themed photos | 17 |
+
+**Total wallpapers:** 174
 
 ## Quick Start
 
