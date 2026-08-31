@@ -1,8 +1,27 @@
-# Wallpaper Collection
+# ✨ Wallpaper Vault ✨
 
-A curated collection of desktop wallpapers organized by theme.
+<div align="center">
 
-## Collection Overview
+![Wallpaper Collection Banner](https://img.shields.io/badge/Wallpaper-Collection-9B5DE5?style=for-the-badge&logo=dropbox&logoColor=white)
+
+</div>
+
+A cinematic, aesthetic, and endlessly customizable collection of desktop wallpapers for every vibe — from anime legends to tech-inspired minimalism.
+
+## 🌌 Collection Stats
+
+<div align="center">
+
+![Total Wallpapers](https://img.shields.io/badge/Total_Wallpapers-162-00C2A8?style=flat-square)
+![Formats](https://img.shields.io/badge/Formats-jpg%20%7C%20jpeg%20%7C%20png-FF6B6B?style=flat-square)
+![Categories](https://img.shields.io/badge/Categories-20-FFD166?style=flat-square)
+![Curated](https://img.shields.io/badge/Style-Curated_Aesthetic-F15BB5?style=flat-square)
+
+</div>
+
+---
+
+## 🗂️ Collection Explorer
 
 | Folder | Theme | Count |
 |---|---|---:|
@@ -27,20 +46,36 @@ A curated collection of desktop wallpapers organized by theme.
 | `Vocaloids` | Vocaloid themed wallpapers | 2 |
 | `west` | Western / general aesthetic wallpapers | 16 |
 
-**Total wallpapers:** 162
-
-## Quick Start
-
-1. Open any folder above.
-2. Pick the image you like.
-3. Set it as your desktop wallpaper.
-
-## Notes
-
-- Image formats include `.jpg`, `.jpeg`, and `.png`.
-- Filenames are kept as-is from the original collection.
-- `RG_Special` is a handpicked starter set if you want the best picks first.
+> 💎 Total wallpapers: 162
 
 ---
 
+## 🚀 Quick Start
+
+1. Open any folder from the list above.
+2. Browse the art and choose the mood that fits your setup.
+3. Set your favorite as the desktop wallpaper.
+4. Repeat until your screen feels like a dream.
+
+## ✨ Spotlight Picks
+
+- `OS` — clean, futuristic, and high-tech vibes.
+- `game_wall` — bold, energetic, and immersive visual energy.
+- `Demon_Slayer` — rich colors and dramatic anime atmosphere.
+- `Singular` — diverse mixes for standout custom setups.
+
+## 📝 Notes
+
+- Image formats include `.jpg`, `.jpeg`, and `.png`.
+- Filenames remain unchanged from the original collection.
+- This archive is designed for fast browsing and effortless setup.
+
+---
+
+<div align="center">
+
+## 🎨 Make your screen unforgettable.
+
 Enjoy customizing your setup ✨
+
+</div>
