@@ -6,16 +6,28 @@ A curated collection of desktop wallpapers organized by theme.
 
 | Folder | Theme | Count |
 |---|---|---:|
-| `RG_Special` | Personal favorites | 15 |
-| `MEME` | Meme & fun wallpapers | 13 |
-| `game_wall` | Gaming wallpapers | 12 |
-| `hind` | Indian/Hindi aesthetic wallpapers | 4 |
-| `neo_wall` | Modern / neo / abstract styles | 50 |
-| `wall` | General mixed wallpapers | 52 |
-| `west` | Western-themed wallpapers | 11 |
-| `College_Photo` | College memories and themed photos | 17 |
+| `Black_Clover` | Black Clover themed wallpapers | 3 |
+| `Bleach` | Bleach themed wallpapers | 12 |
+| `Chainsawman` | Chainsaw Man themed wallpapers | 2 |
+| `DAN_DA_DAN` | DAN DA DAN themed wallpapers | 6 |
+| `Demon_Slayer` | Demon Slayer themed wallpapers | 14 |
+| `Dragon_Ball` | Dragon Ball themed wallpapers | 9 |
+| `game_wall` | Gaming wallpapers | 18 |
+| `Hind` | Hindi / Indian aesthetic wallpapers | 5 |
+| `JJK` | Jujutsu Kaisen themed wallpapers | 3 |
+| `MEME` | Meme & fun wallpapers | 12 |
+| `MOB` | Mob-themed wallpapers | 1 |
+| `Naruto` | Naruto themed wallpapers | 5 |
+| `One_piece` | One Piece themed wallpapers | 1 |
+| `One_Punch_Man` | One Punch Man themed wallpapers | 13 |
+| `OS` | OS / tech / aesthetic wallpapers | 16 |
+| `Sakamoto_days` | Sakamoto Days themed wallpapers | 3 |
+| `Singular` | Singular / mixed themed wallpapers | 17 |
+| `SpyXfamily` | Spy x Family themed wallpapers | 3 |
+| `Vocaloids` | Vocaloid themed wallpapers | 2 |
+| `west` | Western / general aesthetic wallpapers | 16 |
 
-**Total wallpapers:** 174
+**Total wallpapers:** 162
 
 ## Quick Start
 
